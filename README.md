@@ -7,6 +7,7 @@
 ## Overview
 
 Macula is a web-based application designed to monitor student engagement in real-time using computer vision. The platform automates attendance tracking, enhances participation through gamification, and offers real-time feedback to educators.
+![A1 poster](https://github.com/user-attachments/assets/6252470c-82d3-48b7-a1f1-d65b346ced2a)
 
 ## Implementation Platform
 
